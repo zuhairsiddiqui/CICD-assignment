@@ -34,6 +34,8 @@ Build and start the services with Docker Compose:
 python .\app.py
 ```
 
+Using Docker - 
+
 ```bash
 docker-compose up --build
 ```
